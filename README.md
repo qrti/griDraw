@@ -1,11 +1,13 @@
 #**griDraw**
 
-###**Vector Drawing for Android** - Grid Orientated + Intuitive + Touch Friendly
+###**Vector Drawing for Android**  
+Grid Orientated + Intuitive + Touch Friendly
 
 Far from being ready but already accomplished
 * grid move and pinch zoom
 * line, rectangle, ellipse, circle, arc, freehand, text 
 * move, resize, stretch, rotate
+* toolbar swipe (left)
 * unique file dialog
 * load and save
 
