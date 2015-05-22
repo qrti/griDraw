@@ -5,11 +5,11 @@ Grid Orientated + Intuitive + Touch Friendly
 
 **Far from being ready but already accomplished**
 * grid move, zoom
-* grid snap off, edge snap, center snap
+* grid snap, edge, center, off
 * line, rectangle, circle, ellipse, arc, freehand, text 
 * move, resize, stretch, rotate
-* toolbar swipe (left)
-* unique file dialog
+* left toolbar swipe
+* unique file dialog with sort options
 * load, save, rename
 
 ![Screenshot 1](https://github.com/qrti/griDraw/blob/master/Screenshots/Screenshot%2001.png)
