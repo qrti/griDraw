@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gridraw</string>
+
+    <!-- MainActivity Menu -->
+    <string name="pointer">Pointer</string>
+    <string name="changegrid">Change Grid</string>
+    <string name="drawline">Draw Line</string>
+    <string name="drawrect">Draw Rect</string>
+    <string name="drawcircle">Draw Circle</string>
+    <string name="drawfree">Draw Free</string>
+    <string name="drawtext">Draw Text</string>
+    <string name="newproject">New</string>
+    <string name="openproject">Open</string>
+    <string name="saveproject">Save</string>
+    <string name="saveasproject">Save As</string>
+    <string name="renameproject">Rename</string>
+    <string name="exit">Exit</string>
+    
+    <!-- FileDialog -->
+    <string name="title_file_dialog">FileDialog</string>
+    <string name="sort_alpha">Alpha</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_time">Time</string>
+    <string name="sort_reverse">Reverse</string>
+	<string name="nofile">no file</string>
+	<string name="unnamed">unnamed</string>
+	<string name="cancel">Cancel</string>
+	<string name="ok">OK</string>
+</resources>
+
+
+
+
+
+
+
+
+
+

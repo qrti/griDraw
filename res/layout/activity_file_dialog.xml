@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/greylightblue"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+	<TextView
+	    android:id="@+id/path"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_marginBottom="5dp"
+	    android:background="@color/grey"
+	    android:padding="5dp"
+	    android:textSize="16sp" />
+        
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_above="@+id/file"
+        android:layout_below="@+id/path"
+        android:background="@color/lightgrey"
+        android:padding="5dp"
+        android:scrollbars="vertical" />
+    
+   <EditText
+       android:id="@+id/file"
+       android:inputType="text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_above="@+id/cancel"
+       android:layout_alignLeft="@android:id/list"
+       android:layout_marginBottom="5dp"
+       android:layout_marginTop="5dp"
+       android:background="@color/grey"
+       android:padding="5dp"
+       android:textSize="16sp" />
+  
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/ok"
+        android:minWidth="100dip"
+        android:text="@string/cancel" />
+   
+    <Button
+        android:id="@+id/ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:minWidth="100dip"
+        android:text="@string/ok" />
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
