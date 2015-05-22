@@ -13,7 +13,7 @@ Far from being ready but already accomplished
 
 ![Screenshot 2](https://github.com/qrti/griDraw/blob/master/Screenshots/Screenshot%2002.png)
 
-![Screenshot 3](https://github.com/qrti/griDraw/blob/master/Screenshots/Screenshot%2003.png)  ![Screenshot 4](https://github.com/qrti/griDraw/blob/master/Screenshots/Screenshot%2004.png)
+![Screenshot 3](https://github.com/qrti/griDraw/blob/master/Screenshots/Screenshot%2003.png) ![Screenshot 4](https://github.com/qrti/griDraw/blob/master/Screenshots/Screenshot%2004.png)
 
 ----------
 
