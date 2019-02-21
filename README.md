@@ -1,4 +1,4 @@
-#**griDraw**
+# **griDraw**
 
 **Vector Drawing for Android**  
 Grid Orientated + Intuitive + Touch Friendly
